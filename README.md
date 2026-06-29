@@ -2,7 +2,7 @@
   
   <!-- Sleek Custom Typography Greeting -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Rievant;Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ripan+Hidayat;Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -108,7 +108,7 @@
 
 <div align="center">
   
-  <a href="www.linkedin.com/in/ripan-hidayat-532828b0" target="_blank">
+  <a href="https://linkedin.com/in/ripan-hidayat-532828b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://instagram.com/rivan.me" target="_blank">
