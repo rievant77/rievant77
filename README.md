@@ -108,10 +108,10 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/ripan-hidayat-532828b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+  <a href="https://instagram.com/rivan.me" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 
