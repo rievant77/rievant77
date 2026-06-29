@@ -72,12 +72,12 @@
     <tr style="border: none;">
       <td align="center" style="border: none;" width="50%">
         <a href="https://github.com/rievant77">
-          <img src="https://github-readme-stats.vercel.app/api?username=rievant77&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=00ffcc&text_color=aaaaaa&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=rievant77&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=00ffcc&text_color=aaaaaa&include_all_commits=true&count_private=true" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center" style="border: none;" width="50%">
         <a href="https://github.com/rievant77">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rievant77&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&icon_color=00ffcc&text_color=aaaaaa&langs_count=6" alt="Top Languages" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=rievant77&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&icon_color=00ffcc&text_color=aaaaaa&langs_count=6" alt="Top Languages" />
         </a>
       </td>
     </tr>
