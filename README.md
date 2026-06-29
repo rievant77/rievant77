@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    🇮🇩 Based in Indonesia &bull; 📧 your-email@example.com
+    🇮🇩 Based in Indonesia &bull; 📧 ripan.hidayat76@gmail.com
   </p>
 
 </div>
@@ -68,7 +68,7 @@
 <div align="center">
   
   <!-- Transparent Stats Cards that float organically -->
-  <table border="0" style="border: none; border-collapse: collapse;">
+<!--  <table border="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" style="border: none;" width="50%">
         <a href="https://github.com/rievant77">
@@ -81,7 +81,7 @@
         </a>
       </td>
     </tr>
-  </table>
+  </table> -->
 
   <br />
 
@@ -117,6 +117,6 @@
 
   <br /><br />
   
-  <img src="https://komarev.com/normal-badge/?username=rievant77&color=25D366&style=flat-square" alt="Visitor Count" />
+ <!-- <img src="https://komarev.com/normal-badge/?username=rievant77&color=25D366&style=flat-square" alt="Visitor Count" /> -->
 
 </div>
